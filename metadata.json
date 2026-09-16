@@ -1,0 +1,6 @@
+{
+  "name": "EduGuide AI - Academic Advisor",
+  "description": "Intelligent academic advisor for university and college students providing personalized study planning, performance analysis, academic risk detection, learning support, and career guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
